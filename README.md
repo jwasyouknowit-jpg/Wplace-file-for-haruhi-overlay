@@ -1,2 +1,11 @@
-# Wplace-file-for-haruhi-overlay
-https://wplace.live/?lat=39.09466691328727&amp;lng=-84.91456054687501&amp;zoom=15
+# Haruhi Overlay - Wplace File
+
+This repository contains the Wplace overlay file for the Haruhi project.
+
+## How to Use
+download file 
+place in export for wplace overlays
+assist in creating the art
+
+## Contributing
+Fork this repo, make your art contributions, and create a PR!
